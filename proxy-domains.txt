@@ -19,6 +19,7 @@ edgecastcdn.net
 cloudfront.net
 netflix.com
 netflix.net
+netflix.de
 nflximg.net
 nflxvideo.net
 nflxso.net
@@ -29,6 +30,7 @@ hbonow.com
 hbogo.com
 hbo.com
 amazon.com
+amazon.de
 amazon.co.uk
 amazonvideo.com
 crackle.com
@@ -76,3 +78,21 @@ sling.com
 movetv.com
 optus.com.au
 optusnet.com.au
+arte.tv
+3sat.de
+zdf.de
+ardmediathek.de
+br.de
+wdr.de
+prosieben.de
+tvnow.de
+sixx.de
+n-tv.de
+sat1gold.de
+sat1.de
+prosiebenmaxx.de
+welt.de
+kabeleins.de
+joyn.de
+sport1.de
+servustv.com
