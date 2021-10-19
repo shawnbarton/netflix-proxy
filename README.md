@@ -1,4 +1,6 @@
-Forked for personal use to bounce German public TV channels.
+# Fork Notes
+
+Forked for personal use to bounce German public TV channels. Primary change is contained in proxy-domains.txt
 
 [![Build Status](https://travis-ci.org/ab77/netflix-proxy.svg?branch=master)](https://travis-ci.org/ab77/netflix-proxy) [![Docker Pulls](https://img.shields.io/docker/pulls/ab77/sniproxy.svg?maxAge=2592000)](https://hub.docker.com/r/ab77/sniproxy/) [![Docker Stars](https://img.shields.io/docker/stars/ab77/sniproxy.svg?maxAge=2592000)](https://hub.docker.com/r/ab77/sniproxy/)
 
